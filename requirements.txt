@@ -14,3 +14,6 @@ shap
 # Jupyter notebooks
 jupyter
 notebook
+
+#SMOTE
+imbalanced-learn
